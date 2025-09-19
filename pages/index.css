@@ -9,10 +9,3 @@
 @import url(../blocks/recipes.css);
 @import url(../blocks/reservation.css);
 @import url(../blocks/form.css);
-
-::placeholder {
-  font-family: "Inter", Arial, sans-serif;
-  font-size: 20px;
-  line-height: 30px;
-  color: #838383;
-}
